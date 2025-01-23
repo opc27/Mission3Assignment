@@ -92,7 +92,6 @@ while (check == 1)
     else
     {
         Console.Write("Please enter a valid number\n\n");
-        //userInput = int.Parse(Console.ReadLine()); // Re-prompt for input
 
     }  
 }
